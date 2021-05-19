@@ -54,7 +54,7 @@ The following scenarios will be showcased and covers most cases that can be enco
     * The README is added in the *other* folder, for example by a teacher's assistant.
     * This scenario is shown in pull request: **TBD**
 11. A group of size 2 makes a project proposal pull request. They have worked together 1 time before. Their README does not contain KTH email-address matching the name of the folder containing the README. Thus the pull request is invalid, although the group may work together.
-    * The group members *rr* and *ss* have made a demo and a tutorial before, and now want to make a presentation.
+    * The group members *rr* and *ss* have made a demo before, and now want to make a presentation.
     * This scenario is shown in pull request: **TBD**
 12. A group of size 2 makes a project proposal pull request. They have worked together 0 times before. One of the members has worked alone 2 times before. Working alone should count as a subgroup when considering if any subsets of the proposing group has worked together too many times. Thus this group may work together.
     * The group members *tt* and *uu* want to make a presentation. *tt* has made a demo and a tutorial before.
