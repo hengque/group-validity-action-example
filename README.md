@@ -19,7 +19,7 @@ The parameters for the action will be set to the values used for the devops repo
 Consequently, if there is not exactly one README added under *contributions* the pull request is assumed to not be a project proposal.
 
 ## Structure and scenarios
-The root has two folders, *other* and *contributions*. The *other* folder simply represents the space outside of the *contributions* folder. The *contributions* folder has 3 subfolders: *demo*, *tutorial* and *presentation*, representing the categories of tasks one can do. Within these 3 folders the project folders of different groups are added.
+The root has two folders, *other* and *contributions*. The *other* folder simply represents the space outside of the *contributions* folder. The *contributions* folder has 3 subfolders: *demo*, *tutorial* and *presentation*, representing the categories of tasks one can do. Within these 3 folders the project folders of different groups are added. The *other* folder and the *presentation* folder are empty, so to force them to show up dummy files called *file.txt* have been added to them.
 
 The following scenarios will be showcased and covers most cases that can be encountered:
 
